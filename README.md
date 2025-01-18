@@ -87,6 +87,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Web Content Extracting](#web-content-extracting)
     - [Web Crawling](#web-crawling)
     - [Web Frameworks](#web-frameworks)
+- [FastAPI](https://fastapi.tiangolo.com/) - A modern, fast, web framework for building APIs with Python.
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
 - [Resources](#resources)
